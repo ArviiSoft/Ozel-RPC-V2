@@ -1,0 +1,16 @@
+{
+  "name": "arviis-discord-ozel-rpc-v2",
+  "version": "1.0.0",
+  "description": "arviis. - Discord Özel RPC V2",
+  "main": "arvis.js",
+  "scripts": {
+    "arvis:dev": "nodemon arvis.js",
+    "test": "node arvis.js"
+  },
+  "author": "arviis.",
+  "license": "MIT",
+  "dependencies": {
+    "discord-rpc": "^3.2.0",
+    "nodemon": "^2.0.20"
+  }
+}
