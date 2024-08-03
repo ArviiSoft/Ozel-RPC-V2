@@ -6,7 +6,7 @@
 # 💵・Hatalarla Uğraşmak İstemiyorsanız Satın Alabilirsiniz
 https://www.itemsatis.com/discord/ozel-rpc-v2-1790649.html
 
-https://www.itempazar.com/discord-uye-nitro-sunucu/ozel-rpc-v2-96087
+https://www.itempazar.com/discord-uye-nitro-sunucu/ozel-rpc-v2-116400
 # 
 #
 
